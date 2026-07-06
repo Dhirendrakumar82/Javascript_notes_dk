@@ -82,7 +82,6 @@ console.log(usertow.name); //NIKKU
 
 
 
-
 // # typeof operator
 // console.log(typeof ""); //string
 // console.log(typeof 1); //number
